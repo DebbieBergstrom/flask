@@ -2,3 +2,11 @@
     width: 90%;
     max-height: 600px;
 }
+
+.flashes {
+    color: rgb(180, 8, 8);
+    font-size: large;
+    font-style: italic;
+    font-weight: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
